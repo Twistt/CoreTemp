@@ -1,0 +1,12 @@
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenHardwareMonitorLib.dll
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CoreTemp.exe.config
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CoreTemp.exe
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CoreTemp.pdb
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CoreTemp.CoreTemp.resources
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CoreTemp.Properties.Resources.resources
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CoreTemp.exe
+d:\ArachnidMonitor\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CoreTemp.pdb
